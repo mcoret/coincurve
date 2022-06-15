@@ -14,14 +14,6 @@ used by [Bitcoin Core](https://github.com/bitcoin/bitcoin) for operations on the
 
 Feel free to read the [documentation](https://ofek.dev/coincurve/)!
 
-## Users
-
-- [Ethereum](https://ethereum.org)
-- [LBRY](https://lbry.com)
-- [ZeroNet](https://zeronet.io)
-- [libp2p](https://libp2p.io)
-
-and [many more](https://ofek.dev/coincurve/users/)!
 
 ## License
 
